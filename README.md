@@ -7,7 +7,9 @@ Using Shakespeare’s Text for Unsupervised Character Classification
 ## 👤 Author Information
 
 **Student Name:** Kaustubh Shivshankar Shejole
+
 **Enrollment ID:** BT20CSE112
+
 **Institution:** VNIT, Nagpur
 
 ---
@@ -134,3 +136,4 @@ This project shows that:
   [https://www.youtube.com/watch?v=fZ28ZmroMy8](https://www.youtube.com/watch?v=fZ28ZmroMy8)
 
 ---
+
