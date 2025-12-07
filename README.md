@@ -1,6 +1,6 @@
 # HMM-Based Alphabet Partitioning
 
-Using Shakespeare’s Text for Unsupervised Character Classification
+Using Shakespeare’s Text for Unsupervised Character Classification in two groups
 
 ---
 
@@ -136,4 +136,5 @@ This project shows that:
   [https://www.youtube.com/watch?v=fZ28ZmroMy8](https://www.youtube.com/watch?v=fZ28ZmroMy8)
 
 ---
+
 
